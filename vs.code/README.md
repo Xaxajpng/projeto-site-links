@@ -35,6 +35,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 DevLinks é um agregador de links para usar como cartão de visita
 
+O que o projeto faz?
+
+* Funciona como uma página única para agrupar links de redes sociais e outros sites.
+* Tem um botão que permite trocar o tema entre **modo claro** e **modo escuro**.
+* A troca de tema muda as cores, a imagem de fundo e a foto de perfil.
+* Os botões têm animações quando o mouse passa por cima.
+
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
