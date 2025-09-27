@@ -121,6 +121,8 @@ ul {
     }
 
 ul li a{
+    width: 75%; /* diminuição da largura */
+    margin: auto;
     border: 1px solid rgb(8, 32, 18);
 
     display: flex;
