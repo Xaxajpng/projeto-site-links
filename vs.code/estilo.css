@@ -86,11 +86,15 @@ margin-top: 8px;
     z-index: 1;
     transform: translateY(-50%);
 
-    animation: slide-out 0.4s forwards;
+    animation: slide-out 0.5s;
 }
 
 .light #switch button {
-   animation: slide-in 0.4s forwards;
+   animation: slide-in 0.5s forwards;
+}
+
+#switch button:hover{
+    outline: 8px solid var(--highlight-color)
 }
 
 #switch span {
